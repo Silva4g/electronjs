@@ -1,9 +1,12 @@
 {
   "name": "webview-simple",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
   "license": "MIT",
-  "dependencies": {
-    "electron": "^11.3.0"
-  }
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "licenses": "ISC"
 }
